@@ -3,8 +3,33 @@ console.log(
   "Follow the steps in the README.md file to complete the exercises:\n==========\n"
 );
 
-// Exercise 1
+// Exercise 1 and 2
+const firstName = "Chuck";
+let lastName = "Norris";
+var age = 73;
 
-// Exercise 2
+//firstName = "Charles";
+//lastName = "Morris";
+age = 74;
+
+console.log(`${firstName} ${lastName}`);
 
 // Exercise 3
+let language = "JavaScript";
+let createdYear = 1995;
+let isCaseSensitive = true;
+
+// Exercise 4
+let price = 19.99;
+let isOnSale = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectedSize = `M`;
+
+// Exercise 5
+let title = "Name of the Wind";
+let author = "Patrick Rothfuss";
+let pageCount = 722;
+let bookMark = 456;
+let hasRead = true;
